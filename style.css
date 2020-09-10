@@ -10,7 +10,7 @@ body {
 }
 p {
     font-size: 3rem;
-    margin-top: 120px;
+    margin-top: 125px;
     margin-bottom: 0;
 }
 h1 {
@@ -21,8 +21,7 @@ h1 {
     background: linear-gradient(to right, orange , yellow, green, cyan, blue, Violet);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-size: 20vw;
-    font-size: 8rem;
+    font-size: 5rem;
     font-weight: bold;
     
 }
@@ -95,3 +94,16 @@ h1 {
 .onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-switch {
     left:0px; 
 }
+#phrase2 {
+    position: absolute;
+    top: 26%;
+}
+#phrase2.hide{
+    opacity: 0;
+    visibility: hidden;
+} 
+#phrase1.hide1{
+    opacity: 0;
+    visibility: hidden;
+} 
+

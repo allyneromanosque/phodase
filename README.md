@@ -8,6 +8,7 @@ ___
 
 - HTML
 - CSS
+- JavaScript
 ___
 ___
 ## Licença 📄
@@ -18,7 +19,7 @@ ___
 ___
 ## Gratidão 🎁
 
-* **Maria Lares** - *parceira de loucura* [Maria Lares](https://github.com/maferlape)
+[Maria Lares](https://github.com/maferlape) - *Desenvolvedora da funcionalidade do JavaScript*.
 
 ---
 ⌨️ com ❤️ por [Allyne Romanosque](https://www.linkedin.com/in/allyneromanosque/) 😊
